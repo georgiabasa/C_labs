@@ -1,0 +1,1 @@
+In this much  requested video we will take a look at the AVL tree data structure which at the most basic level is simply a self  balancing Binary Search Tree

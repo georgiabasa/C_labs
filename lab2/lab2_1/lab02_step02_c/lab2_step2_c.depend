@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1617204533 source:c:\progs\c\lab2_step2_c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1617282207 source:c:\c\up1084047\lab2_step2_c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1617282207 source:c:\c\up1084016\lab02_step02_c\main.c
+	<stdio.h>
+	<stdlib.h>
+

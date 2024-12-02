@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1620572086 source:c:\c\ekdosi2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	<gsl/gsl_vector.h>
+

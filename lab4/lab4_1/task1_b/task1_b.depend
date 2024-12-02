@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1620910601 source:c:\c\task1_b\main.c
+	<stdio.h>
+	<string.h>
+
+1621962283 source:c:\c\4o-erg_fasi-1\task1_b\main.c
+	<stdio.h>
+	<string.h>
+
